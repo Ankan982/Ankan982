@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...MongoDb & Flask
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[Ankan Das](https://www.cognitobyte.in/ankandas) [LinkdIn](www.linkedin.com/in/ankan98)
-- ⚡ Fun fact: ... I'm a Graphics designer with Web-Developer Ability !! Bingo right ???
+- ⚡ Fun fact: ... I'm a Full-Stack Web Devloper with # Graphics designing knowledge !! Bingo right ???
 
