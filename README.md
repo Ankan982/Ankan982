@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Multi National Company
+- 🔭 I’m currently working on ... a Multinational Company
 - 🌱 I’m currently learning ... NodeJs
 - 👯 I’m looking to collaborate on ...ReactJs &  MongoDB
 - 🤔 I’m looking for help with ...Blockchain Technology 
