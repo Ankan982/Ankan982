@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Angular
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[All links ](https://ankandaslinks.netlify.app/)
-- ⚡ Aim: ... I'm a Full-Stack Java Devloper!!
+- ⚡ Aim: Want to be Solution Architect!
 
